@@ -35,6 +35,7 @@ All manufacturers have to work with the same laws of physics, and build their se
 | TO-3, heatsink | 8.2 °C/W  | [TI LM340](http://www.ti.com/lit/ds/symlink/lm340.pdf) |
 
 (TO220 heatsink: AAVID 577202B00000G 13 °C/W in still air, 6°C/W in moving air)
+
 (TO3 heatsink: AAVID 500203B00000G 6.2 °C/W in still air)
 
 ## Example
