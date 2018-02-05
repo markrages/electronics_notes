@@ -4,4 +4,4 @@ There are things written for me to use, but with the hope that others will find 
 
 ## Choosing parts by thermal design
 
-thermal.md
+./thermal.md

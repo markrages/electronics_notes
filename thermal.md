@@ -15,6 +15,7 @@ cells.
 All manufacturers have to work with the same laws of physics, and build their semiconductors out of the same materials, and the package sizes are standardized, so we can construct a table of specific thermal responses of different 3-terminal electronics devices.
 
 | Package | θja | Source |
+|---------|-----|--------|
 | SOT-23 | 417 °C/W | [ON MMTBT2222](https://www.onsemi.com/pub/Collateral/MMBT2222LT1-D.PDF) |
 | TO-92 | 200 °C/W  | [ST LM317](http://www.st.com/content/ccc/resource/technical/document/datasheet/ee/4d/b2/bd/25/fe/44/2c/CD00000469.pdf/files/CD00000469.pdf/jcr:content/translations/en.CD00000469.pdf)
 | TO-92 | 180 °C/W  | [ON LM317](http://www.onsemi.com/pub/Collateral/LM317L-D.PDF) |
