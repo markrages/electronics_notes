@@ -35,7 +35,7 @@ I ordered some spare parts from Digikey to repair the damaged boards.
 I also ordered some beefy 1N5365 36V Zeners to add across the power supply (downstream from the diode.)  They should provide a place for the extra energy to go.  Or a least make a more spectacular failure.
 
 | Part          | Digi-Key number                                                                  |
-|---------------+----------------------------------------------------------------------------------|
+|---------------|----------------------------------------------------------------------------------|
 | A4989         | [620-1389-1-ND](https://www.digikey.com/product-detail/en/x/620-1389-1-ND)       |
 | ADuM3480      | [ADUM3480ARSZ-ND](https://www.digikey.com/product-detail/en/x/ADUM3480ARSZ-ND)   |
 | MC34063       | [497-7850-1-ND](https://www.digikey.com/product-detail/en/x/497-7850-1-ND)       |
